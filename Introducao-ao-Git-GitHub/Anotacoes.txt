@@ -1,8 +1,6 @@
-O GIT é um sistema de controle de versões distribuido, usado principalmente no desenvolvmento de software, mas pode ser usado para reistrar o istórico de edições de qualquer tipo d arquivo
+	O GIT é um sistema de controle de versões distribuido, usado principalmente no desenvolvmento de software, mas pode ser usado para reistrar o istórico de edições de qualquer tipo d arquivo
 
-O GITHUB é uma plataforma de hospedagem de codigo fone e arquivos com controle de versão usado o Git. Ele permite que ´programadores, utilitarios ou qualquer usuáriuo cadastrado na plataforma contribuem em projetos privados oi Opem Sorce..
-
-
+	O GITHUB é uma plataforma de hospedagem de codigo fone e arquivos com controle de versão usado o Git. Ele permite que ´programadores, utilitarios ou qualquer usuáriuo cadastrado na plataforma contribuem em projetos privados oi Opem Sorce..
 
 fonte: https://pt.wikipedia.org/wiki/Git
 
